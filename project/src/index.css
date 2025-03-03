@@ -40,7 +40,7 @@ tr:nth-child(even) {
 }
 
 .btn-primary {
-  @apply bg-blue-600 text-white hover:bg-blue-700;
+  @apply bg-[#5d21d1] text-white hover:bg-blue-700;
 }
 
 .btn-secondary {
